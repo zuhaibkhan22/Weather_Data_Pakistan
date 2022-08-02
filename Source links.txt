@@ -1,0 +1,13 @@
+1) https://energydata.info/dataset/pakistan-wind-measurement-data
+
+2) Kaggle Datasets
+
+3) https://rmcpunjab.pmd.gov.pk/metData.php
+
+4) http://www.pmd.gov.pk/rnd/rndweb/rnd_new/gfs_00.php
+
+5) https://www.iamat.org/country/pakistan/climate-data
+
+6) http://ccrd.edu.pk/free.aspx
+
+7) 
